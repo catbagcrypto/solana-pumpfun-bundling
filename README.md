@@ -1,4 +1,4 @@
-# Solana PumpFun Bundling Service
+# Solana PumpFun Bundling Service - CABAL.BOT
 
 Introducing our new **Pump Fun Bundling Service**, designed to provide both natural-looking buys or real bundled buys. Perfect for any team or developer looking to guarantee supply control for a pumpfun launch or Pump.fun CTO.
 
